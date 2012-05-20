@@ -38,3 +38,8 @@ form input {
 #content {
     position: inherit;
 }
+
+#content.ticket {
+    width: 100%;
+}
+
